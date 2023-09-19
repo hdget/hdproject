@@ -1,10 +1,10 @@
 package cmd
 
 import (
+	"github.com/hdget/hdproject/g"
 	"github.com/hdget/hdsdk"
 	"github.com/hdget/hdsdk/utils"
 	"github.com/spf13/cobra"
-	"hdproject/g"
 )
 
 var env string

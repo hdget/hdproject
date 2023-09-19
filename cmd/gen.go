@@ -1,8 +1,8 @@
 package cmd
 
 import (
+	"github.com/hdget/hdproject/pkg/service"
 	"github.com/spf13/cobra"
-	"hdproject/pkg/service"
 	"log"
 	"os"
 	"path/filepath"

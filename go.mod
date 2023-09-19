@@ -1,4 +1,4 @@
-module hdproject
+module github.com/hdget/hdproject
 
 go 1.19
 

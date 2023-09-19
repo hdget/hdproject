@@ -3,8 +3,8 @@ package service
 import (
 	"context"
 	"github.com/dapr/go-sdk/service/common"
+	"github.com/hdget/hdproject/g"
 	"github.com/hdget/hdsdk/lib/svc"
-	"hdproject/g"
 )
 
 type v1_module struct{}

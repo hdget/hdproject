@@ -2,11 +2,11 @@ package cmd
 
 import (
 	daprd "github.com/dapr/go-sdk/service/grpc"
+	"github.com/hdget/hdproject/g"
+	"github.com/hdget/hdproject/pkg/service"
 	"github.com/hdget/hdsdk"
 	"github.com/hdget/hdsdk/utils"
 	"github.com/spf13/cobra"
-	"hdproject/g"
-	"hdproject/pkg/service"
 )
 
 var runDaprGrpcServerCmd = &cobra.Command{

@@ -1,6 +1,6 @@
 package g
 
-import "hdproject/conf"
+import "github.com/hdget/hdproject/conf"
 
 var Config *conf.Config
 

@@ -3,10 +3,10 @@ package service
 import (
 	"fmt"
 	"github.com/dave/jennifer/jen"
+	"github.com/hdget/hdproject/g"
 	"github.com/hdget/hdsdk/lib/svc"
 	"github.com/hdget/hdsdk/utils"
 	"github.com/pkg/errors"
-	"hdproject/g"
 	"strings"
 )
 

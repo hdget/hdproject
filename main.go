@@ -1,6 +1,6 @@
 package main
 
-import "hdproject/cmd"
+import "github.com/hdget/hdproject/cmd"
 
 //go:generate go run main.go gen
 func main() {

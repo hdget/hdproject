@@ -1,6 +1,6 @@
 package cmd
 
-import cobra "github.com/spf13/cobra"
+import "github.com/spf13/cobra"
 
 var cliAddress string
 var runCmd = &cobra.Command{

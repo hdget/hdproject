@@ -1,9 +1,9 @@
 package cmd
 
 import (
+	"github.com/hdget/hdproject/g"
+	"github.com/hdget/hdproject/pkg/service"
 	"github.com/pkg/errors"
-	"hdproject/g"
-	"hdproject/pkg/service"
 	"net/http"
 
 	daprd "github.com/dapr/go-sdk/service/http"
